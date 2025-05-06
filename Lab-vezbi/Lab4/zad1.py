@@ -63,7 +63,7 @@ if __name__ == '__main__':
 
 """
 === Evaluation Result ===
-Average reward over 50 iterations: -255.56
+Average reward over 50 iterations: -237.36
 """
 
 """
